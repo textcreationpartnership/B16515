@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of an honest man, whether styled Whig or Tory, and his opposite the knave together with some short reflections on some passages in a late pamphlet called, The character of a popish successor, and considerations thereupon / by a lover of truth and peace.</title>
+            <author>Norton, John, 1606-1663.</author>
+         </titleStmt>
+         <extent>Approx. 81KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16515</idno><idno type="EEBO-CITATION">8435317</idno>
+  <idno type="VID">204255</idno>
+  <idno type="EEBO-PROQUEST">2264207417</idno>
+  
+            <idno type="STC">Wing A20A</idno>
+            <idno type="OCLC">08435317</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of an honest man, whether styled Whig or Tory, and his opposite the knave together with some short reflections on some passages in a late pamphlet called, The character of a popish successor, and considerations thereupon / by a lover of truth and peace.</title>
+                  <author>Norton, John, 1606-1663.</author>
+               </titleStmt>
+               <extent>16 [i.e. 20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Settle, Elkanah, 1648-1724. --  Character of a popish successor.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204255:1"/>
+            <pb facs="tcp:204255:1"/>
+            <pb facs="tcp:204255:2"/>
+            <p>THE CHARACTER OF An Honest Man; Whether Styled VVHIG OR TORY, And his opposite, the KNAVE.</p>
+            <p>TOGETHER With some short Reflections on some Passages in a late Pamphlet, called <hi>the Character of a Popish Successor,</hi> and Considerations thereupon.</p>
+            <p>By a Lover of Truth and Peace.</p>
+            <q>
+               <l>Sola honesta utilia</l>
+               <l>Omnia si perdas Animam servare memento.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:204255:3"/>
+            <pb n="3" facs="tcp:204255:3"/>
+            <head>THE CHARACTER OF An Honest Man; Whether stil'd WHIG, or TORY, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is a wise Observation, made by a learned and worthy Person of our Age: That the Name of a Christian is become too general to express our Faith, there being a Geography of Religions as well as Lands. But that there should be found a kind of Geography of Religions among Protestants, is more especially of very sad and serious Consideration to all that own that Title, and truly are such, from these differences in Religion, and dividing us into Sects and Factions; there must of necessity arise diffe<g ref="char:EOLhyphen"/>rent names to distingush them one from another. Therefore in the first place they that make and cause Schisms, Factions, and Divisions in the truly reformed Protestant Church of <hi>England,</hi> upon them will doubtless lye all the blame and guilt of those Differences and dif<g ref="char:EOLhyphen"/>ferent Names amongst us.</p>
+            <p>Now as to those two great distinguishing Names of <hi>Whig</hi> and <hi>Tory,</hi> of late arose amongst us. The Name of <hi>Whig</hi> began in <hi>Scotland</hi> in the year 1647/8, when Duke <hi>Hammilton,</hi> by Order of the Parliament, invaded the Kingdom of <hi>England</hi> for relief of his Majesty then in the Isle of <hi>Wight:</hi> For no sooner did he invade <hi>England,</hi> but they rose in Rebellion against the then Parliament that then was Loyal, and after the defeat of Duke <hi>Hammilton,</hi> called in <hi>Oliver Cromwell</hi> to their assistance against the Earl of <hi>Lanrick</hi> the Dukes own Bro<g ref="char:EOLhyphen"/>ther, upon which a Ballad, but never suffered to be printed, was then made with this Burthen, <hi>Away Whigs away,</hi> &amp;c. Which Name of <hi>Whig</hi> being revived again of late years in <hi>Scotland,</hi> when the <hi>Scottish</hi> Presbyterians in sence of the Obligation of their Covenant, did meet at their Field Conventicles in spight of Magistrates and Laws, as they pretended to Preach, Pray, and Worship God; but in truth, under that Religious Cover, as it plainly afterward appeared, to encourage, list, enrol, and muster their Troops and Companies, preparatory to that formidable Rebellion that presently after broke out, head<g ref="char:EOLhyphen"/>ed by their principal Ministers and Preachers. This Name of <hi>Whig,</hi> only importing a Fa<g ref="char:EOLhyphen"/>ctious and Seditious Fellow, as I humbly conceive. And when the Presbyterian and Pha<g ref="char:EOLhyphen"/>natick Party in <hi>England</hi> (upon the discovery of the Popish Plot) began to bustle and be Rampant, and at least to shew themselves ready to play the same game of Sedition and Re<g ref="char:EOLhyphen"/>bellion in <hi>England</hi> (they still owning and adhering, to the Seditious Principles of their Bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland,</hi>) the truly Loyal Party, the true Protestants of the Church of <hi>England,</hi> did think sit to apply the same Name of <hi>Whig,</hi> to the same kind of People here in <hi>England,</hi> and against which, I see no reason, especially when they seem so willing to accept of the same, and not to be ashamed of it, but rather to glory in it as a Name that imports (as they would make us believe) Religion, Loyalty, Integrity. But presently upon this, that Non-conformist Party (to their honour be it spoken) that they might according to their usual custom, shew their inveterate Malice and Revenge, in which they were resolved not to be Children, or out-dene by the worst of their Enemies, they retorted that ugly Name
+<pb n="4" facs="tcp:204255:4"/> of <hi>Tory</hi> upon all the truly Loyal Protestants of the Church of <hi>England,</hi> making them all Papists, or at best Popishly affected, Out-laws, Robbers, such as our Law saith have <hi>Ca<g ref="char:EOLhyphen"/>put Lupinum,</hi> fit and ready to be destroyed and knock'd on the head by any one that could meet with them, but at best, to be such Persons as refused to have Christ to reign over them, and therefore those words of his might be applyed to them, <hi>Bring them hither and slay them before me.</hi>
+            </p>
+            <p>But not to give you or my self any further trouble about the Original or Signification of the said Names, but in this great confusion of Names and Persons (wherein possibly there is great mistakes in misapplying those Names to several Persons) some honest men going under that Name of Whig sometimes, as well as some dissolute and debauched Persons that go under the Names of <hi>Tories,</hi> who will never be any credit, but disgrace and prejudice to the Cause they seem to espouse. To give you the true difference and distinction between an honest Christian man, and a Knave or Hypocrite. It being the best way I know to end the Controversie, and that we may all readily meet and concenter in honesty and integri<g ref="char:EOLhyphen"/>ty, and in such honest and upright Actions, which will only denominate us Christians in Truth and Sincerity. And indeed, as a late worthy Author hath observed, if there be any use at all of opprobrious and railing Words, it must be either in Reproof, or in the administration of Justice. And certainly it were a great happiness to us in this Nation, that we all were of that <hi>Roman</hi> Gentleman's disposition of whom it is recorded, <hi>N<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scivit quid esset maledicere,</hi> he knew not how to speak contum<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liously to any man.</p>
+            <p>It is a thing most plain and evident, That the rise of most, or all the Errors, Heresies, seditious and rebellious Principles and Practices of our times arises from the Spirit of A<g ref="char:EOLhyphen"/>theism, Irreligion, Dishonesty and Knavery abounding in mens hearts. For Wisdom will not dwell with polluted Souls, as the wise man speaketh. No wonder to see men hug their Vices, to see the Debauchees of our times plead for, and defend their Bestialities; or the seditious and disloyal Schismaticks, their undutiful, seditious, and disloyal Actions and Deportment towards their Prince, and Spiritual Governors; yea, to see the aforesaid wickednesses so much to abound among us, that it is become a Crime for a man to shew his Zeal and Affection to God, to his Laws, to Religion, and his Prince and lawful Go<g ref="char:EOLhyphen"/>vernour. Therefore that honesty and integrity, the genuine and proper Fruit of true Re<g ref="char:EOLhyphen"/>ligion, be not lost in this Confusion and Croud, let us consider the Honest Man and the Knave.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>First, as to the Honest Man.</hi>
+                     </cell>
+                     <cell>Then as to the Knave or Hypocrite.</cell>
+                  </row>
+                  <row>
+                     <cell>The Honest Christian Man is such an one that really hath great respects for God, an I shews it upon all occasions, not in notions and talk, but in practice.</cell>
+                     <cell>
+                        <hi>The Knave or Hypocrite is one that maketh great pretences to God and Religion, but it is only in shew, not in heart; he hath all his Re<g ref="char:EOLhyphen"/>ligion in his Tongue, but little or none in his A<g ref="char:EOLhyphen"/>ctions, of whom it may be said,</hi> Quid prodest verbis tantum Philosophari.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that next to his Respects to God and Religion, looks upon it as his great duty to honour and reverence his Prince, and Soveraign Gods Vicegerent on earth; he dares not be so impudent to call God Father, and yet to despise his Anointed, b<gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> renders unto <hi>Caesar,</hi> the things that are <hi>Caesars,</hi> as well as unto God the things that are Gods.</cell>
+                     <cell>
+                        <hi>He is one that thinks his Prince is in nature of the Peoples Servant, and takes himself to be a proper Judge of his Princes Actions; and that whenever he apprehends his Prince doth a<g ref="char:EOLhyphen"/>miss in Government, he may presently lawfully be a Rebel, and resist him.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that would not do the least evil, and thereby sin against God, and violate his Conscience, for the greatest temporal ad<g ref="char:EOLhyphen"/>vantage; he looks at his Duty, and not at his seeming Interest and Advantage, know<g ref="char:EOLhyphen"/>ing that in faithfully doing his Duty, lies his greatest interest and safety.</cell>
+                     <cell>
+                        <hi>He is one that matters not his Duty, his Soul and Conscience, so that he may advance his In<g ref="char:EOLhyphen"/>terest, and obtain his Will, and with great pretences of Religion and Conscience will play the Knave for advantage, and values not his Soul, so he may save his Skin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="5" facs="tcp:204255:4"/>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that cannot easily be perswaded, that such a Person, that is of such a Conver<g ref="char:EOLhyphen"/>sation as bids defiance to God and all his Laws, can make Conscience of what he swears before a Magistrate, and is very ten<g ref="char:EOLhyphen"/>der of taking away any mans life upon such Evidence.</cell>
+                     <cell>
+                        <hi>He is one that cares not to applaud and make use of such Persons to carry on his own Cause and Design, and to advance his own ends and purposes, that values not</hi> per fas &amp; nefas, <hi>to obtain his wicke purposes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that judgeth, That if the fa<g ref="char:EOLhyphen"/>mous Queen <hi>Elizabeth</hi> had been disinheri<g ref="char:EOLhyphen"/>ted, and put by her Succession to the Crown by her Sister Q. <hi>Mary,</hi> and her Popish Parlia<g ref="char:EOLhyphen"/>ments, upon pretence that she was a Prote<g ref="char:EOLhyphen"/>stant, it had been an unworthy, and an unjust, and wicked Action.</cell>
+                     <cell>
+                        <hi>He is one that although he pretends himself to be a Protestant, doth justify such Proceedings which leads him to these absurdities, that the end of a thing being good, will sanctify the means, although never so wicked: And that what had been wickedly done by the Papists, had changed its nature and become good, if it had been done by Protestants.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that thinks, that the Interest and Welfare of the Prince and his People are all one, and cannot be separated, and that the safety and welfare of himself and Family, necessarily depend upon their happiness and welfare.</cell>
+                     <cell>
+                        <hi>He is one that continually talks of the Court-Party, and the Patriots for the People, and doth endeavour to divide their joynt Interest one from the other, and make Schisms and Rents in the State between Prince and People.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that thinks, that his lawful Prince and Governour, is <hi>Charles,</hi> by the Grace of God, <hi>viz.</hi> is by God's appointment, and not made by the People, and so honour<g ref="char:EOLhyphen"/>eth and obeyeth him, as set over him by God Almighty, the supream Governor of the World, for the welfare of the People.</cell>
+                     <cell>
+                        <hi>He is one that thinketh, his Prince is a Crea<g ref="char:EOLhyphen"/>ture of the Peoples making, and judgeth, that he may and ought to be called in question by the People, to give an account of his Stewardship, when-ever the People think he rules amiss, and may be deposed also, and howeven he goes no farther with the Jesuit, yet the natural Consequence of deposing, proves murthering their Prince at last.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that thinketh, that (according to the true Christian Doctrine, professed and maintained by the true reformed Pro<g ref="char:EOLhyphen"/>testant Church of <hi>England</hi>) his Prince is ac<g ref="char:EOLhyphen"/>countable only to God, and not to man for his Actions; according as our Laws also de<g ref="char:EOLhyphen"/>termine, That the King can do no wrong.</cell>
+                     <cell>
+                        <hi>He is one that judgeth this is Court-flattery, that this is only Court-doctrine, and not Christian? But that this priviledge is given to the Saints, to bind their Kings in Chains, and their Nobles in Fetters of Iron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that looketh upon himself, to be most strictly obliged by God, to be loyal and faithful to his Prince, and more especi<g ref="char:EOLhyphen"/>ally when he hath bound himself by his Oath</cell>
+                     <cell>
+                        <hi>He is one that takes the Oath of Allegiance, and after that the Covenant with a limitation of his Allegiance; Then after that the Engage<g ref="char:EOLhyphen"/>ment, and after that again the Oath of Allegi<g ref="char:EOLhyphen"/>ance;</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:204255:5"/>of Allegiance; and judgeth, that neither Pope nor Presbyter with his Covenant, can absolve him from the same.</cell>
+                     <cell>
+                        <hi>and the Test, and what not: He cares not how he swears and forswears, and at last is as great a Knave as be was at first, and hugs disloy<g ref="char:EOLhyphen"/>alty in his bosom, against the time of the next Resurrection, of it second</hi> Cromwell <hi>and the Good Old Cause.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one who when the King and King<g ref="char:EOLhyphen"/>doms safety is concerned, willingly expo<g ref="char:EOLhyphen"/>seth himself to all hazards and dangers, and will die at his Princes command in his de<g ref="char:EOLhyphen"/>fence, with these words in his mouth, <hi>Dul<g ref="char:EOLhyphen"/>ce est pro Principe &amp; Patria mori.</hi>
+                     </cell>
+                     <cell>
+                        <hi>He is one who when his Prince is in dangers and straights, will do as wicked</hi> Shimei <hi>did to good</hi> David, <hi>defame and vilify him, curse and reproach him, and when there is an opportunity, take part with, and actually assist a rebellious</hi> Absolom <hi>against his Father.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that abhors from his Soul that accursed and pernicious Doctrine and Posi<g ref="char:EOLhyphen"/>tion, that a lawful Prince, when he misgo<g ref="char:EOLhyphen"/>verns, may be resisted and withstood, and by Subjects of any degree whatsoever; and that they are proper Judges over their Prince and Governour, well knowing, and wisely considering, that once granting this priviledg to Subjects, and that they might terminate their Loyalty at their pleasure, and be sole Judges in their own Case, no Government could be secure, nor no Prince in safety one moment, no longer than Power and Force were wanting in the People to effect their Wills.</cell>
+                     <cell>
+                        <hi>He highly extols his own Loyalty, and will needs be one of his Princes best Subjects, al<g ref="char:EOLhyphen"/>though he strictly adheres to such desperate Prin<g ref="char:EOLhyphen"/>ciples of Rebellion and Mischief, which if put in practice, would ruin and destroy his Prince, yea overturn the whole World, and reduce it to its first Original</hi> Chaos <hi>of Confusion; yea he is such a one that would imposè on his Prince such hard Conditions in governing, upon which he himself would be loth to accept of a Crown, if it was offered him; nay, such terms as upon which the Devil himself, the worst of Creatures, would refuse a Crown, if it were offered him, for he is too subtil and cunning to be in mercy of that Monster of the common People.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that loves his Prince, and there<g ref="char:EOLhyphen"/>fore cannot be so contradictions, as to re<g ref="char:EOLhyphen"/>proach, or hate his Loyal Brother, especially he having so often exposed himself to great dangers for the Kingdoms safety and welfare, they being now the only remains of that Royal Martyr, whom he can hardly yet call to mind without tears.</cell>
+                     <cell>
+                        <hi>He is one that pretends love to his Prince, yet cannot refrain from re<g ref="char:EOLhyphen"/>proaching and casting all the</hi> Odium <hi>possible upon his Royal and Loyal Bro<g ref="char:EOLhyphen"/>ther, whom the King so entirely loves.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that not only conscientiously ob<g ref="char:EOLhyphen"/>serves the Fasts and Festivals of the Church, but also those of the State, the <hi>5th.</hi> of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> the <hi>30th.</hi> of <hi>January,</hi> and <hi>29th.</hi> of <hi>May;</hi> for as he cannot but with grief, sor<g ref="char:EOLhyphen"/>row, and detestation, remember that accursed wickedness committed upon our Martyred Soveraign, and earnestly beg of Almighty God, not to charge upon this Nation the guilt of that innocent blood, so he cannot but give hearty thanks for those great and wonderful deliverances to this Nation, spe<g ref="char:EOLhyphen"/>cially that in restoring to us our Prince, and those many happinesses we enjoy under his gracious Government.</cell>
+                     <cell>
+                        <hi>He is one that pretends to be mighty zealous in observing the Festival of Sunday, or the Lords<g ref="char:EOLhyphen"/>day, which he calls the Sabbath, and thinks that will serve in exchange for all the rest; yea, he will tell us with great confidence, that he is very Loyal, and loves his Prince, and abominates the Mur<g ref="char:EOLhyphen"/>ther of his Father, although he neither observes either the</hi> 30th. <hi>of</hi> January, <hi>or</hi> 29th. <hi>of</hi> May, <hi>when the Laws require also the same of him. And when certainly the refusing or neglecting to observe the</hi> 30th. <hi>of</hi> January, <hi>cannot amount to less than tacitly, and by consequence justifying and approving the said horrid Villany then acted, which I hope they will be so wise as to consider of against the next</hi> 30th. <hi>of</hi> January.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="7" facs="tcp:204255:5"/>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that next his Temporal Parent his Prince, the <hi>Pater patriae,</hi> bears great re<g ref="char:EOLhyphen"/>spects to his Mother the Church, the Ecclesi<g ref="char:EOLhyphen"/>astical Governors of this famous and best re<g ref="char:EOLhyphen"/>formed Protestant Church of <hi>England,</hi> as now by Law establish'd, the only Bulwark and Defence of all the Protestant Churches in the World; submitting himself to her Laws and Government, knowing, and wisely con<g ref="char:EOLhyphen"/>sidering, that if she fall, the Protestant in<g ref="char:EOLhyphen"/>terest cannot stand, and therefore he is wil<g ref="char:EOLhyphen"/>ling and ready to vindicate her Liturgie and Government, her Officers and Ministers, when aspersed by wicked Adversaries.</cell>
+                     <cell>
+                        <hi>He is one that pretends himself to be a Prote<g ref="char:EOLhyphen"/>stant, yea, the only true Protestant, because he is a Dissenter from</hi> Rome, <hi>yet not only con<g ref="char:EOLhyphen"/>temns, despiseth, and vilifyeth the Church of</hi> England <hi>and her Government and Liturgy. And sometimes he goes further, and pretends to be a true Son of the Church, as it is by Law establish'd, yet can find in his heart to disgrace, disparage, and cast all the dirt he can meet with at her Clergy, and intimately comply with Pha<g ref="char:EOLhyphen"/>naticks, the Churches implacable Enemies. And calls himself a Protestant, and the only Prote<g ref="char:EOLhyphen"/>stant, when he is hardly a Christian.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one, who although he cannot clear all the Clergy of the Church of <hi>England</hi> from irregularities and scandals (it being impossi<g ref="char:EOLhyphen"/>ble that any Church in the World, in this state of imperfection wherein we live) should be free without spot and blemish, especially considering, that when our blessed Saviour was upon earth, and had but twelve in his Family, and yet one of them (though an Apostle) was a Devil, and that <hi>nullum un<g ref="char:EOLhyphen"/>quam ingenium placuit sine veniâ,</hi> that no man lives without fault, and that it would be a miracle, therefore especially in this dege<g ref="char:EOLhyphen"/>nerate and debauched Age we live in, that our Clergy should wholly escape the Gene<g ref="char:EOLhyphen"/>ral Contagion: But notwithstanding this, he bids him that is without sin among those of our Churches Enemies, to throw the first Stone at them, for he judges that they are guilty of the greater Crimes, as Pride, Pee<g ref="char:EOLhyphen"/>vishness, implacable Malice and Revenge, that makes them most like the Devil, and that <hi>Melius est humilitas, in malis quam super<g ref="char:EOLhyphen"/>bia in bonis.</hi> However things are not as he could wish, he is most willing and ready to follow the Example of the Famous <hi>Constan<g ref="char:EOLhyphen"/>tine,</hi> who professed himself to be ready if he knew of any grievous sins in any of his Cler<g ref="char:EOLhyphen"/>gy, to hide and cover them from the eye of the World with his Cloak, knowing well, their Faults would very much reflect on the honour of their Lord and Master, and his holy Religion. And he cannot but be true to the interest of the Religion he professeth to own, and abhors to run with the Hare, and to take hold with the Hound.</cell>
+                     <cell>
+                        <hi>He is one that without any sence of humane Frailty, abandoning all Charity, cares not what lyes and slanders he raises and fomenteth, even such as are as false and black as Hell. He is not ashamed to brand most, if not all our worthy Clergy of the Church of</hi> England, <hi>with the Name of drunken Parsons, and all the true Sons of the Church with the same Title, or else with the Name of</hi> Papists; <hi>so that it is impossible that any one should escape; for if some be of a more free and careless Conversation, they are all Drun<g ref="char:EOLhyphen"/>kards and Debauchees, so those that are of very sober and severe Lives and Conversations, they are all Papists, or Popishly affected at the best. They have well studied that Maxim,</hi> Audacter calumniare semper aliquid haerebit, &amp; ca<g ref="char:EOLhyphen"/>lumnia leviter volat, sed graviter vulnerat, leviter volat, sed non tam leviter revocatur. <hi>And as a late worthy Author hath observed, speak<g ref="char:EOLhyphen"/>ing of the Vulgar and Common sort of People, whom no kind of Reason so much abuseth and carrieth away, as when the discredit of the Per<g ref="char:EOLhyphen"/>son is retorted on the Cause, a Master-piece of our Adversaries late Policies it was (as he observes) to put into the hands of the People such Pam<g ref="char:EOLhyphen"/>phlets, which did not hurt our Cause at all, but our Persons. To give you only a taste of their gross abuse of our Clergy, I shall give it you in these two abusive Lines, of that worthy Person therein mentioned.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Have you not seen the Dean of <hi>Pauls</hi> Irenicum withdrawn?</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Blowing the Coals for <hi>Rome,</hi> in hope of Sleeves of Lawn.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that Credits and Confides in his Prince and Soveraign, when he is grati<g ref="char:EOLhyphen"/>ously pleased to declare, that he will rule according to his Laws, and maintain the</cell>
+                     <cell>
+                        <hi>He is one that is studious to raise up Fears and Jealousies in the hearts of the King's Sub<g ref="char:EOLhyphen"/>jects against their Prince, and publick Transacti<g ref="char:EOLhyphen"/>ons of the State, and thereby causing Murmur<g ref="char:EOLhyphen"/>ings</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="8" facs="tcp:204255:6"/>true Protestant Religion. This hath ever been the Character of an honest Mind, who is ready to trust another, thinking all men as honest as themselves, although they some<g ref="char:EOLhyphen"/>times suffer thereby; but as to his Prince, he looks upon it as his duty, which God Al<g ref="char:EOLhyphen"/>mighty hath laid upon him to confide in him.</cell>
+                     <cell>
+                        <hi>and Complainings, Sedition, Tumults and Disorder, and sooner will give Credence to a</hi> Fitz-Harris, <hi>than his Gracious Prince and Go<g ref="char:EOLhyphen"/>vernour, and delights like the</hi> Salamander, <hi>to live in the Fire, although he will certainly pe<g ref="char:EOLhyphen"/>rish also himself in the general ruin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that is humble and peaceable, for humility and peaceableness ever accompany an honest heart. His great Care is to bring wa<g ref="char:EOLhyphen"/>ter to allay those heats that are raised in Church and State, by the unruly and boiste<g ref="char:EOLhyphen"/>rous lusts and passions of wicked men, threat<g ref="char:EOLhyphen"/>ning publick and general Ruin; and not<g ref="char:EOLhyphen"/>withstanding the great cry against Popery, thinks that there is at least as great danger to us from the want of true Piety and Religion, and from that horrid Atheism and Hypocri<g ref="char:EOLhyphen"/>sie which he sees plainly to abound among us, and which he certainly knows will be our ruin, if there were neither Pope nor Papist in the World. The Principles of Irreligion being that which will bring ruin upon any State or Kingdom in the World, and hum<g ref="char:EOLhyphen"/>bly conceives, that it is impossible to preserve Unity, without Conformity to what is by Law establisht.</cell>
+                     <cell>
+                        <hi>He is one that is proud and insolent, heady and high-minded, as St.</hi> Jude <hi>stiles him who is impatient of being governed; would command all others, and be commanded by none him<g ref="char:EOLhyphen"/>self. It is observed by wise men, that those men which are over-busie, are unfit to govern, for they move all things, and leave nothing without question and innovation; and as the Fa<g ref="char:EOLhyphen"/>ther speaks, they (out of desire to amend what is already well) by these fiery Dispositions, are raised Divisions and Confusions, and divi<g ref="char:EOLhyphen"/>ded is Family against Family, yea, a man against himself. And to be short, men of this temper are as</hi> Fireballs <hi>and</hi> Granadoes, <hi>that cannot rest till they have fired all about them.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that reads the sacred Scriptures, and although (not like that famous Christian who is said always to have read it upon his knees) yet with great humility and reverence, and is not so ready to in<g ref="char:EOLhyphen"/>terpret Scripture as to read it; and takes the assistance of the best Guides, the worthy Pastors and Ministers of the Church wherein he lives, about the true sence and mean<g ref="char:EOLhyphen"/>ing of the same in doubtful and difficult places; and wisely thinks he may as well trust them with the Interpretation of the doubtful pla<g ref="char:EOLhyphen"/>ces of Scripture, as the Translation of the Scriptures; for if their hone<g ref="char:EOLhyphen"/>sty may be questioned in the lesser, the Interpretation, it may be much more questioned in the greater trust, which is the Text it self. He con<g ref="char:EOLhyphen"/>siders, that Advice once given to a Vestal Virgin (<hi>Coli Deus sanctè</hi>
+                     </cell>
+                     <cell>
+                        <hi>He is one that with audacious boldness takes the Bible into his hands, and will undertake as readily to give the sence of it, as to read it. Eve<g ref="char:EOLhyphen"/>ry Sectary makes it speak what he pleaseth, even Sedition and Rebellion, and under pretence of Interpretation of Scripture, they violently broach their own Conceits, although a wrested Proof (as a worthy Author observes) is but like a sub<g ref="char:EOLhyphen"/>orned Witness; and further, that as the Worm eats out the heart of the Plant that bred it: So whatsoever is done amiss in this kind, natu<g ref="char:EOLhyphen"/>rally works no other end, but destruction of him that doth it. This sin of wresting the Scriptures in the eye of some of the Ancients seemed so ugly, that they have ranged it in the same Rank with the sin against the Holy Ghost, and therefore have pronounced it a sin greater than can be forgiven; for this is not a sin of Infirmity, but a sin of Wit and Strength; for as it hath been observed of the Painters and Statuaries among the Hea<g ref="char:EOLhyphen"/>thens, they were wont to Paint many times their Goddesses like their Mistresses, and then think them most fair, when they were most like what they best loved; so it is with many Pro<g ref="char:EOLhyphen"/>fessors of Religion, they can temper the Pre<g ref="char:EOLhyphen"/>cepts thereof to their own liking, and lay</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="9" facs="tcp:204255:6"/>
+                        <hi>magis quam sc<gap reason="illegible" resp="#uom" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> hath in this great work of Exposition of Scripture an especial place, it is to be managed with fear and reverence, not with wit and daliance, as a worthy Author hath it.</cell>
+                     <cell>
+                        <hi>upon them Glosses and Interpretations, as it were Colours, and make it look like what they love.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that doth not pick and chuse of his Duty what he thinks fit, but endeavours after an uniform obedience; he looks upon the second Table of the Law of God and the Duties of it, as properly the parts of Reli<g ref="char:EOLhyphen"/>gion and Christianity, as the Duties and Ob<g ref="char:EOLhyphen"/>servations of the first; and abhors to sepa<g ref="char:EOLhyphen"/>rate Religion and Loyalty; considering that his blessed Saviour made it his main and principal design in all his Sermons while he was upon Earth, to perswade men to the Du<g ref="char:EOLhyphen"/>ties of the second Table.</cell>
+                     <cell>
+                        <hi>He is one that hath a great seeming Zeal for the Duties of the first Table, and in the mean time reproaches the Duties of the Second, and those that make Conscience of them with the Names of Moralists, and meer Moral men, and will be Saints in the Church, and Devils in the Mar<g ref="char:EOLhyphen"/>ket; and be very Demure and Religious on the Sunday, though all the Week after, a man had as good meet with a</hi> Jew <hi>or a</hi> Turk <hi>in his Trade and Dealings with them, and come off better.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that looks upon these two Parts, a true Faith, and an honest Conversation, to be necessary to a Christian; for as one hath well observed, a true Profession without ho<g ref="char:EOLhyphen"/>nest Conversation, not only saves not, but in<g ref="char:EOLhyphen"/>creaseth our weight of Punishment; but a good Life without true Profession, though it bring us not to Heaven, yet it lessens the measure of our Judgment; and that a Mo<g ref="char:EOLhyphen"/>ral Man so called, is a Christian by the surer side. His great Care is to store his mind with just and honest Principles, and then makes it his endeavour to live after them; and of all Religions and Opinions in the World, he concludes those cannot be of God, that cause Schisms, Sedition and Commotions in Church and State, and give trouble to God's Vicege<g ref="char:EOLhyphen"/>rents on Earth, knowing well, that true Chri<g ref="char:EOLhyphen"/>stianity is a Gospel of Peace.</cell>
+                     <cell>
+                        <hi>He is one that indulgeth corrupt and erro<g ref="char:EOLhyphen"/>nious Principles, which suit best with his proud and turbulent and schismatical humour, and thinks he knows as much as the best Doctor can teach him; he is heady, high-minded, as St.</hi> Jude <hi>describes him, and then be sure you shall presently hear him speak evil of Digni<g ref="char:EOLhyphen"/>ties, who is destitute both of a true Faith and sound Principles, and of an honest and ingeni<g ref="char:EOLhyphen"/>ous Conversation; and a thousand to one, you will find him a Mushroom, an upstart, one lately grown Rich; of whom it hath been ob<g ref="char:EOLhyphen"/>served, that they differ from other Rich Men only in this, That commonly they have all the Faults that Rich Men have, and many more.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that thinketh it not superfluous, but his Duty at all times, and upon all occa<g ref="char:EOLhyphen"/>sions to express his Loyalty, and cry, <hi>God save the King;</hi> but more especially, he cannot forbear when he apprehends the Crown and Government to shake, and be unsteady by means of murmuring and seditious Subjects, but would willingly support it; and as they Defame and Curse, so he blesseth and pray<g ref="char:EOLhyphen"/>eth for them; and dares be so bold, as vin<g ref="char:EOLhyphen"/>dicate his Sovereign, against the Calumnies and Reproaches of wicked men; and as he hates Idolatry, so he likewise detests Sediti<g ref="char:EOLhyphen"/>on and Rebellion, which the Prophet <hi>Samuel</hi> compares with it.</cell>
+                     <cell>
+                        <hi>He is one that with</hi> Judas <hi>cryes out, what needs this Waste? What needs these Addresses and Protestations of Loyalty? This abuseth the Prince; and although he pretends more than ordinary Zeal against Popery; and for the Protestant Religion, and the Liberty of the Sub<g ref="char:EOLhyphen"/>ject, yet will not be brought to joyn with his Loyal Neighbours, in giving his Majesty thanks for his late Royal Assurances of these to us; so that whatever he is in shew, he is a Knave at the bottom, as he that runs may read.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="10" facs="tcp:204255:7"/>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that as he looks on it as his du<g ref="char:EOLhyphen"/>ty, to abide and be content in the Station wherein God hath set him, so he doth not trouble or distract himself with future e<g ref="char:EOLhyphen"/>vents, nor discompose his mind with possi<g ref="char:EOLhyphen"/>bilities of future dangers; he neither med<g ref="char:EOLhyphen"/>dles with the secrets of God Almighty, nor the <hi>Arcana imperii</hi> of his Prince, he truly considers, that our Life is a warfare (as one hath observed) and every man in the World hath his Station and Place from whence he may not move, but by the direction and appoint<g ref="char:EOLhyphen"/>ment of God his General, or Magistrates which are as Captains and Lieutenants un<g ref="char:EOLhyphen"/>der him. And as from his own honesty and integrity he enjoys a great measure of peace in his mind, so he is always most ready to promote peace in the World; and being true to the interest of the Protestant Religion, as it is now happily by Law establish'd in <hi>England,</hi> cannot be indulgent towards Pha<g ref="char:EOLhyphen"/>naticks and Dissenters, nor lay them in his bosom, seeing plainly▪ they design the over<g ref="char:EOLhyphen"/>throw thereof, yet heartily desires their Re<g ref="char:EOLhyphen"/>formation, and Conformity to the Laws, if it might be, but in case they are so despe<g ref="char:EOLhyphen"/>rately resolved never to be reconciled, and to ruin all, rather than not to have their Wills; he cannot but desire they may be so restrained and kept under by the Execution of the Good Laws of the Kingdom, that they may be never able to hurt us, or our establish'd true Religion so dear to us. And when he daily sees by sad experience, the dismal effects of Factions and Differences in Religion, <hi>viz.</hi> Hatred, Emulation, Wrath, Strife, Divisions, Heresies, Murther, which lay whole Nations in War and Blood, no wonder he cannot be reconciled to them.</cell>
+                     <cell>
+                        <hi>He is one that cannot be at rest, but is continually raising Fears, and foreseeing things quite out of▪ his reach and view, and will needs tor<g ref="char:EOLhyphen"/>ment himself with the reality of such things that possibly may never be, or come to pass. And to prevent what he thus fears, fears not to rush into sin, that doubtless is more to be fear<g ref="char:EOLhyphen"/>ed than suffering. And seeing his Neighbour with a Sword by his side, will needs be assaulting him, and take it from him, for fear his Neigh<g ref="char:EOLhyphen"/>bour should make use of it to kill him; he will also by all means turn Statesman, and be medling with, and mending State-affairs so infinitely a<g ref="char:EOLhyphen"/>bove his Sphear and Capacity; but as he being of a proud and turbulent Spirit, he enjoys no peace within, so would be a means to banish it out of the Earth, and would fain fire the whole World before the general Con<g ref="char:EOLhyphen"/>flagration.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that cannot endure to be irreve<g ref="char:EOLhyphen"/>rent at the publick Worship of God; for as he gives God his heart, so he cannot but te<g ref="char:EOLhyphen"/>stifie those respects he bears to him in the outward reverent gestures of the Body, espe<g ref="char:EOLhyphen"/>cially when time and place will allow it; he abhors not to shew as great Reverence to God, as to his Prince; and when the Custom of his Countrey is, to approach his Prince up<g ref="char:EOLhyphen"/>on his knee, he cannot think it fit to draw near to the King of Kings with a less bodily Worship, and cannot but be much troubled to see Christians perform a more, slight, slo<g ref="char:EOLhyphen"/>venly, and superficial Service to the true and Living God, than Heathens have afforded to their dumb Idols.</cell>
+                     <cell>
+                        <hi>He is one that thinks that God is so much his Friend, that he is not his King and Lord. That he must be so worshipp'd in Spirit and Truth▪ as not to be therefore worshipped with bodily Worship. And he is so spiritually minded, as makes him forget that God hath given him a Body as well as a Soul, to concur together in his Service; and hates all Order, Rites and Ceremonies, appointed by the Wisdom of the Church, to keep up and maintain a Reverence to sacred. Performances in the publick Worship of the most High God.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="11" facs="tcp:204255:7"/>
+                        <hi>Honest Man.</hi>
+                     </cell>
+                     <cell>Knave.</cell>
+                  </row>
+                  <row>
+                     <cell>He is one that hath Resolution and Cou<g ref="char:EOLhyphen"/>rage to be just and honest, minds mainly his duty, and is not much sollicitous what he suffers in a good and honest Cause; he is neither to be cajol'd by fair words, or threat<g ref="char:EOLhyphen"/>ned out of the duties of that Station wherein God hath set him, and thinks the safety of his Religion, Prince, and Countrey, are not such flight and mean concernments, as to be trifled and played with; he therefore in these grand Affairs, thinks he cannot be just and honest, except he be Couragious and Reso<g ref="char:EOLhyphen"/>lute; and to conclude, he endeavours sin<g ref="char:EOLhyphen"/>cerely, to follow after what-ever things are true, what-ever things are pure, what-ever things are honest, what-ever things are just, what-ever things are of good report, what-ever things are praise-worthy, and in this Exercise, he is <hi>homo quadratus,</hi> Constant, Steady, Resolved, what-ever Condition he may be cast into.</cell>
+                     <cell>
+                        <hi>He is one that is a Timorous and mean spirited Man, that hopes his good meaning will excuse him, and dare not be true to his own Princi<g ref="char:EOLhyphen"/>ples, and therefore is ready to put fa<g ref="char:EOLhyphen"/>vourable Constructions upon apparent, insolent, and wicked Actions, that tend to the ruin of the Cause he pretends firmly to own; and by his want of Courage, and Resolution, (and Fear of loss of his Wealth especially) undoes both the Cause he owns, and himself al<g ref="char:EOLhyphen"/>so, in Conclusion: For in vain it is for any one to think to secure his own Cabin, when the ship is sinking.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus having in the midst of the Confusions of Parties and Names now amongst us, endeavoured to Charactarise an honest man, a good Christian, that is honest and just to the Principles of his Christianity, especially as to his deportment towards the Publick, with a description of his opposite, the Knave or Hypocrite. And now one would think it could not be a difficult task, but the easiest thing in the World, to perswade us all to be Honest Men; when together with the happiness of a good Conscience, a serene Soul (the greatest happiness of mankind here on earth) we may also thereby speedily put an end to all our Differences and Distractions, and of all our different Factions and Parties; and then there will be no use of <hi>Whig</hi> or <hi>Tory,</hi> or any other Nick-name, being all Honest Men, good Christians, good Protestants, good Subjects. And alas! without this Honesty and Integrity of Heart, it matters not what Religion we profess, nor by what Names we are distinguish'd. For this is most certain, a Knave or Hypocrite can be saved in none. Now if our disaffected Party, our Dissenters would thus consent, how happy might they and we be, to concur together, to be of one honest sound mind, true Christians, good Protestants, all true Sons of one and the same truly and excellently well Reformed Church of <hi>England,</hi> and thereby keeping the Unity of the Spirit in the Bond of Peace, all true and Loyal Subjects to one and the same Prince, and him the best in the World; and here<g ref="char:EOLhyphen"/>by, how should we manifest our selves to be not only <hi>Christiani,</hi> but <hi>Chrestiani</hi> as the An<g ref="char:EOLhyphen"/>cient Christians were accounted, a Word signifying benignity and sweetness of Disposi<g ref="char:EOLhyphen"/>tion and Temper. And how willingly should we of the Church of <hi>England,</hi> be recon<g ref="char:EOLhyphen"/>ciled to the <hi>Dissenters,</hi> if they would be perswaded to be reconciled to their Prince and the Laws? But alas! <hi>His labor, hoc opus,</hi> who is able to effect it? When they are grown to that height of <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ness and folly, and drive furiously like, <hi>Jehu,</hi> that although we lay before them their Religion, their Wives and Children, <hi>Et dulcia pignora,</hi> and yet they will not lay aside their madness, but drive over them all, what can be said or done to them?</p>
+            <p>Having therefore very little encouragement to hope to do any good on them, that are resolved to be rather what they are, than what they should and ought to be; and how can sober and serious Discourses prevail, in an Age when on the one hand all Religion and seriousness is scoffed at and derided, and on the other hand, when men are given up to a Reprobate Mind, to strong Delusions, to believe Lies? When they are all as the deaf Adder, that stoppeth his ear to the best of Charmers, when they are so wickedly Malici<g ref="char:EOLhyphen"/>ous as to reproach all good Protestants with the Names of <hi>Tories, Outlaws, Papists,</hi> Po<g ref="char:EOLhyphen"/>pishly-affected <hi>Papists</hi> in Masquerade, whereby they take in and conclude our famous learn<g ref="char:EOLhyphen"/>ed and Worthy Bishops and Clergy, and all sober, wise, and serious Protestants, the true
+<pb n="12" facs="tcp:204255:8"/> Sons of the Church; and thus cloath them (as the Heathens did the Primitive Christians) with Beasts skins, designing to have them devoured by that Monster of the Vulgar, who as a late learned Author observes, is that great Enemy of Reason, Vertue and Religion, that numerous piece of Monstrosity, which taken asunder seem men, and the reasonable Creatures of God▪ but confused together make but one great Beast, and a Monstrosity more Prodigious than <hi>Hydra.</hi> And therein not only including the baser and minor sort of Peo<g ref="char:EOLhyphen"/>ple, but the Rabble even amongst the Gentry, a sort of Plebeian Heads, whose fancy moves with the same Wheel as those, men in the same level with Mechanicks, though their For<g ref="char:EOLhyphen"/>tunes do somewhat guild their Infirmities, and their Purses compound for their Fol<g ref="char:EOLhyphen"/>lies.</p>
+            <p>How can we therefore trust these false Brethren? How dangerous is it to lay these Vi<g ref="char:EOLhyphen"/>pers in our Bosoms, who breath out nothing but Ruin and Destruction to us the Loyal Protestants, True Sons of the Church of <hi>England</hi> as now by Law established? And alas! If they would seriously consider of it, do they not even very many of them bring the in<g ref="char:EOLhyphen"/>nocent Blood of the Royal Martyr upon themselves, that Blood that (it is much to be feared) still calls aloud to Heaven for Vengeance; for do they not Tacitly and by Consequence ju<g ref="char:EOLhyphen"/>stifie the said horrid Crime; First, by being seditious, and continually Murmuring and Complaining, finding fault with Government and Governors, which was the first step to Sedition, War, and Blood, and Destruction of the King. And in the next place do they not proceed, and go on by owning and justifying, Pleading for, and Acting by those abo<g ref="char:EOLhyphen"/>minable and seditious Tenents, Opinions, and Principles that were also the Cause of the said dreadful Confusions, War and Blood, and by which his sacred Majesty was brought to his fatal end with the Ruin of our Religion and Countrey? Yea, some of them are grown to that height of impudence, as to neglect and refuse also the Religious Observa<g ref="char:EOLhyphen"/>tion of the <hi>30th.</hi> of <hi>Jan.</hi> or <hi>29th.</hi> of <hi>May,</hi> Now whether these men do not by these their Actings, justifie and plead for all the late horrid Villany? And whether the Voice of their Actions be not plainly that of the <hi>Jews</hi> to <hi>Pilate</hi> (when they demanded of him the Crucifiction of our blessed Saviour) his Blood be upon us and our Children? I leave it to be seriously considered of by them; and also that the sin of Bloodshed, suffers not God to forget Judgment, or entertain a thought of Mercy, as hath been observed by the Learn<g ref="char:EOLhyphen"/>ed. In the next place therefore let me have my recourse to you, O ye Noble and Heroick Souls (for there is a Nobility without Heraldry) (especially you of this great and famous City of <hi>London,</hi> with your late Honest, Loyal and Worthy Lord Mayor,) who abominate Phanaticism as well as Popery; and Anarchy as well as Tyranny; and who (in this time of Confusion and Danger, when there are so many with all their Might, within their Pha<g ref="char:EOLhyphen"/>natick Circles, under pretence of the Names of Religion, Liberty, Property, <hi>&amp;c.</hi> are rai<g ref="char:EOLhyphen"/>sing most hideous and terrible Storms, both in Church and State) are yet resolved to ad<g ref="char:EOLhyphen"/>here closely to God and the King, the Church and State, and in that to the Welfare of your selves and Families. Consider, that as without all doubt, the great end of the Laws of the Kingdom, and of all Charters and Priviledges at any time granted to Subjects from the Favour and Indulgence of Princes, is not to weaken the hands of their Prince, but for his Support, and for the promoting of Order, Government, and publick Peace, (without which Law signifies nothing.) So if Subjects shall so far degenerate, and be so abominably un<g ref="char:EOLhyphen"/>grateful, as to make use of the said Favours of their Princes against the Prince himself, and to attempt to overthrow the Government, and pretend Law for all this, certainly this is no other (as I humbly conceive) then under pretence of Law to overthrow the Law. As for instance, when they will needs pitch upon, and choose such Officers of the King's, who shall return <hi>Ignoramus</hi> Juries to acquit Malefactors and Offenders against the Laws of the Kingdom, so far that the Prince is forced to complain he can have no Justice and Right done him; and if by reason thereof, seditious and wicked Persons take freedom to abuse and reproach the Prince and the Government at their pleasure, and to enter into Associations and Combinations against the same. I say, if such things as th<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se be suffer<g ref="char:EOLhyphen"/>ed, (what can be expected, but that the Crown and Government, and all publick peace and safety <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ld be subverted and overthrown.)</p>
+            <q>O quantum mali nimium subtilitas!</q>
+            <p>And be encouraged however to go on, and matter not what the Enemies of your P<gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the Church style you in their Dialect, although they call you <hi>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ories,</hi> or Devils a thousand times (as <hi>Luther</hi> is said to do of <hi>Calvin</hi>) and design when-ever they have Power to deal
+<pb n="13" facs="tcp:204255:8"/> with you as <hi>Tories,</hi> Rogues, and Out-laws. Yet let us not fear, but stand our ground. <hi>Magna est veritas &amp; praevalebit,</hi> the most high will stand by us, who is the great supporter of his Vicegerents here on Earth that govern by him and for him, and question not but <hi>Charles</hi> the Second will (in spight of his Enemies) be <hi>Charles</hi> the Great, he knows well, both <hi>Parcere subjectis, &amp; debellare superbos.</hi> And from whom we have the greatest Assuran<g ref="char:EOLhyphen"/>ces possible of all that may satisfie all honest, Religious, Loyal hearts. And alas! If we should be so infatuated, as to question his Royal word (contrary to our duty that God hath layed on us) who must we trust? A Fellow-subject against his Prince, a Rebel, an Usurper, a Tyrant? Yea, this certainly will be our Lot, if we will not confide in so gra<g ref="char:EOLhyphen"/>cious a Prince, who is even such, in the judgment of his very Enemies. Let us go on couragiously in the Name of God, and not fear to hazard our Lives and Fortunes, when our Princes and the Churches safety call for it, <hi>Audentes fortuna juvat.</hi> And let us be so<g ref="char:EOLhyphen"/>ber and wise, and not betray so good a Cause as this, either by our carelesness or indif<g ref="char:EOLhyphen"/>ferency, or our Intemperance and Debauchery, or by want of Valour. Shall the Enemies of Truth and Peace, the industrious Servants, or rather Slaves of the Prince of Darkness, be more Sedulous, Serious, and Couragious in their wicked and disloyal Attempts, than we in this Cause of God, and the King and the Church? Yea, they in ruining and de<g ref="char:EOLhyphen"/>stroying all, than we in saving all; and certainly it would be a very strange Revolution, and contrary to all the usual methods of Divine Providence, if God should permit twice in one Age, such abominable wickedness to become successful among us, as to the over<g ref="char:EOLhyphen"/>throw of Monarchy, and this excellently well reformed Church of <hi>England,</hi> and thereby the overthrow of all the Protestant Churches abroad; and if ever (to prevent the said Mischief) we should come to this desperate shift, that either we must admit of Anarchy or Tyranny; let us wisely consider things, (and as of two evils, the least is always to be chosen) so by the Universal Consent of all mankind, Tyranny hath been accounted a les<g ref="char:EOLhyphen"/>ser evil than Anarchy, according to that usual maxim, That it is better and safer to live in that Place or Kingdom where almost every thing we do is unlawful, than where every thing is lawful. And in Conclusion, if we must be destroyed and perish, it better agrees, especially with all Generous and Noble Souls, to be at last devoured by a Lyon, than to be destroyed by Vermin; but however, from both such Evils and Plagues let us heartily pray, <hi>Good Lord deliver us.</hi>
+            </p>
+            <p>But to avoid, if it be possible, the said great Mischiefs and Dangers; let us all in this Nation be very careful in our next Choice of Parliament-Men, when-ever his Majesty shall think sit to call together that great and honourable Assembly, to choose Men of Honesty, and Integrity, of Religious, Honest, and sound Principles of the Church of <hi>England,</hi> and to have a care of all such Persons, that notwithstanding their Profession of being Sons of the Church of <hi>England,</hi> are strangely wheedled away with plausible pretences by the di<g ref="char:EOLhyphen"/>shonest subtilty of the Phanaticks, or such others whose minds are distempered by Preju<g ref="char:EOLhyphen"/>dices, Animosities, Discontents and Distasts against the Government or Governors; for men of the greatest abilities of mind and understanding, if they have not a principle of Honesty and Integrity and sound Religion, or suffer their minds to be possessed with Pas<g ref="char:EOLhyphen"/>sion and Prejudice, although otherwise, Wise and Prudent, they cease then to be such, and therefore are useless and unfit to be trusted in the grand Affairs of the Kingdom, for <hi>perit judicium cum res transit in affectum;</hi> for it mainly concerns us (as a late Parliament observed) to have a wise and good Parliament, for it is only a Parliament can undo us, if not such as it ought to be. And indeed if we send such men, that lye under such Preju<g ref="char:EOLhyphen"/>dices and Discontents, or not of honest and sound Principles, we do but cut our own Throats; and it is but openly to do what the Papists once did in secret, send Barrels of Gun-powder and lighted Matches to the Parliament-house, which once meeting together, will certainly blow up, not only the King and two Houses of Parliament, but the whole Kingdom also, from which great Plague let us pray, <hi>Good Lord deliver us.</hi>
+            </p>
+            <p>How <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and deplorable is the Condition of Christendom at present; how little do we conside<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ou<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christianity, and that the great end of our blessed Saviour's coming into the World, was to make us all the sincere and faithful Servants God, and to publish a Gospel of Peace, to break down the partition Wall between <hi>Jew</hi> and <hi>Gentile,</hi> to make all the World one Family, to live in Love and Unity together, to constitute one pure Church unto himself, therefore they must be the Disciples of the Prince of Darkness, not of Christ, whose very Principles and Practices, their designs and vigorous endeavours, are for break<g ref="char:EOLhyphen"/>ing this Union, and not for healing the Rents and Breaches of the Christian part of the World. Now as to <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> present State of Christendom in general. It must needs be grant<g ref="char:EOLhyphen"/>ed,
+<pb n="14" facs="tcp:204255:9"/> that there is so much Pride, Superstition, such corrupting or defacing of the pure Chri<g ref="char:EOLhyphen"/>stian Doctrine, and such abominable Corruption in Worship and in Practice, and so great uncharitableness among the <hi>Romanists</hi> on the one hand, and so much of Pride, Peevishness, Passion, Errors, Schisms, Divisions, Animosities, Hatred, and Variance, among Protestants, especially among very many of them that pretend to that Name, and such imprudent, furi<g ref="char:EOLhyphen"/>ous opposition and uncharitableness by many of them against the <hi>Romanists</hi> on the other hand, which together with the general scandalous Lives of Christians of all sorts. All which being so diametrically opposite and contrary to our Christianity, and to the great design of the holy Religion of the ever blessed Jesus, that it may very well be put to the question, whether we are at all Christians in Chistendom; so that it may be justly feared, That if our Lord and Master Christ were now in the World, it would be a great question, whether he would find Faith on Earth, and whether he would not disown the Christian part of the World as no Christians, except here and there scattered a few faithful despi<g ref="char:EOLhyphen"/>sed Servants of his. I could very willingly be more favourable to these last and worst times of Christianity we live in, than to compare the present state thereof with the Con<g ref="char:EOLhyphen"/>dition of the World in <hi>Noah</hi>'s time; yet I cannot but much fear, it may be truly said of us; And God saw that the wickedness of man was great in the Earth, and that every Imagination of the thoughts of his heart was only evil continually—And God looked upon the Earth, and behold it was corrupt, for all Flesh had corrupted his way upon the Earth, <hi>Gen. 16. 5, 6.-13. I pray God preserve us,</hi> (I mean Christendom) from what God there threatens, and that we be not swallowed up by an Inundation of Mahumetanism at last. But as for us in this Island, there will be no need to fear that Inundation, for there is no need of the help of <hi>Turks</hi> or <hi>Infidels,</hi> or any other Adversaries, to destroy those that are resolved to be their own Assassines, and destroy themselves.</p>
+         </div>
+         <div type="part">
+            <pb n="15" facs="tcp:204255:9"/>
+            <head>SOME Short Reflections On some Passages in a late PAMPHLET, CALLED THE CHARACTER OF A Popish Successor. And Considerations thereupon.</head>
+            <p>BOoks and Discourses when they have not good and sound Reason to back them, are a sufficient Confutation to themselves in the judgment of the Wise and Judicious, but are not so to others.</p>
+            <p>I shall with the Author grant, that the Consequences of a Popish Successor to be bad enough, but that a Popish Successor should destroy us all presently, make us absolute Slaves, and persecute us with Fire and Faggot; these are Rodomantado's and vain Flou<g ref="char:EOLhyphen"/>rishes, and contrary to our own experience this day in <hi>France,</hi> where that famous Gen<g ref="char:EOLhyphen"/>tleman (as the Author calls him) who wants not power to work his will, and where the Papists are the greater Number, yet we know useth no such rigor of Fire and Fagot; yea although when they have been in Rebellion against him, or his Predecessor, but gives them their Lives, Liberties, and Estates, together with the publick exercise of their Religion, till of late he hath demolished some of their Churches, and put greater restraints upon them; for he chooses rather to be a King of Protestant Subjects, than a <hi>Roy de Ivitot,</hi> al<g ref="char:EOLhyphen"/>though I conceive he would be very glad, that they would be all of his Religion.</p>
+            <p>I cannot conceive what the Authors drift and end in his Book is, except it be to set be<g ref="char:EOLhyphen"/>fore our eyes a temptation to sin and wickedness, by Injustice and Rebellion, to save our selves harmless. And if so, I may well say unto him, avoid Satan, Thou amusest me with Dreams and Imaginations of strange future contingencies, which God hath never re<g ref="char:EOLhyphen"/>vealed to thee shall come to pass. But granting the worst, that as things may fall out; there may be a possibility that I and other good Protestants may expect to suffer for our Religion; it behoves me therefore, and all good Christians, good Protestants, I think, to fit our selves for suffering when it threatens us but at a great distance; far be it from me, that in the prospect of suffering or Martyrdom, I should dare to venter upon sin, to violate God's Law to save my self. I must be Just and Loyal, not Perjure my self, I will endeavour to honour my Lord and Master Christ and his holy Religion by humble and pea<g ref="char:EOLhyphen"/>ceable subjection to what God in his all-wise Providence pleaseth to lay upon me, I will never to save my Skin, damn my Soul. Let others resist lawful Authority, and rebel, and so become the Devils Martyrs; I will endeavour by God's assistance to keep a good Conscience, whatever I may suffer. And let our bold and confident men beware, for God
+<pb n="16" facs="tcp:204255:10"/> Almighty, who hath a care of all things (as the excellent <hi>Grotius</hi> observes) but not equal<g ref="char:EOLhyphen"/>ly, because they are not equal; and that according to the several degrees of things, there be degrees of providence; he governs with a more careful hand the Affairs of men, than of inferior Creatures; and among all mankind, he hath a nearer inspection over Kings, and other Rulers of the Nations, who are as it were earthly Stars.</p>
+            <p>As for this Author, is he not one of those that design to set this Kingdom in a Flame, that he may warm his Fingers at the Fire? But let him take heed, he may possibly be consumed himself in the Flames he raiseth.</p>
+            <p>As for the D. his just and undoubted Right to the Crown, if he survive his Brother, by the Laws of God and Nature, and the fundamental Laws of the Kingdom, none can deny. And our <hi>Magna Charta</hi> provides, that no Freeman shall be disseised of his Free<g ref="char:EOLhyphen"/>hold, put by his Inheritance, or forejudged of Life or Limb, but by legal Process, the Laws of the Land, and Judgment of his Peers; and by another Branch, that the King's Rights and Priviledges shall be preserved untouched, one of the chiefest, and upon which all the rest depend, as on a Corner Stone, is the Hereditariness of the Monarchy; nor does the King alone in this Particular lie under the Obligation of Oaths, the Lords and Com<g ref="char:EOLhyphen"/>mons have not only bound themselves by Act of Parliament, 1<seg rend="sup">o</seg>. <hi>Jac. cap.</hi> 1. to defend the true and Lawful Heirs of the King, acknowledged the undoubted Successors, with their Lives and Fortunes to the Worlds end, but do also swear as often as they meet or take the Oaths of <hi>Allegiance</hi> and <hi>Supremacy,</hi> to defend all the Priviledges, Rights, and Pr<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>heminences of the Crown (under which none can imagine, but Descent in the right Line is included) against all pretenders whatsoever.</p>
+            <p>But I humbly conceive, it will well become us in these Nations, seriously to consider, what hath been instrumental in bringing us under these sad threatning Circumstances? Was it not our Rebellion and Wickedness that first dethron'd, and then afterward mur<g ref="char:EOLhyphen"/>dered <hi>Charles</hi> the First of blessed Memory, and that under pretence of securing the Pro<g ref="char:EOLhyphen"/>testant Religion against Popery, and for the Protection of the godly Party? And then al<g ref="char:EOLhyphen"/>so banished the Royal Family, and forced them to seek their Bread among Strangers, yea among <hi>Papists?</hi> And by these barbarous Proceedings, did we not lay them open to all the solicitations and temptations in the World, if it were possible to alter their Religion?</p>
+            <p>Now what Antipathy and Averseness must needs such Principles and horrid Practices of Injustice, Sedition, Rebellion, War, and Blood, owned and avowed by so many pre<g ref="char:EOLhyphen"/>tending themselves Protestants, work in the heart of a suffering Prince, as would alienate any good and honest heart in the World from such a Religion, owning and countenan<g ref="char:EOLhyphen"/>cing such barbarous Actions? Although I must confess there is a very great mistake in it to charge Protestants, the true Sons of the Church of <hi>England,</hi> with any such Principles or Practices which they abominate and detest, which I would therefore in all humility upon my knees tender to the Consideration of his R. H.</p>
+            <p>And now if the D. be what the general surmise i, may I not justly retort the great Argument made use of by the Author. Those who warp'd the D. crooked, now would break him in pieces because he is not streight. And I cannot conceive, why those Persons who manifest by their daily Conversations to have no Religion at all, should be so offend<g ref="char:EOLhyphen"/>ed with <hi>Popery, Mahumetanism,</hi> or <hi>Heathenism,</hi> or any Religion whatever, for what Reli<g ref="char:EOLhyphen"/>gion can hurt them? Or why our disaffected and Fanaticks should so much dread Suffer<g ref="char:EOLhyphen"/>ing and Martyrdom, when they are so ready to prevent it, and to buy it off by sin and Wickedness, by Injustice, Disloyalty, Perjury, and Rebellion; for if they be but true to their own Principles of self-preservation, and that they may do evil to save themselves; doubtless, this Principle will preserve them safe, let either <hi>Popery</hi> or <hi>Mahumetanism,</hi> or any Religion in the World come in upon us; and I dare engage my self, my Life for theirs, they need never fear Martyrdom; for a sinful Complyance will at any times, with<g ref="char:EOLhyphen"/>out question, keep them safe.</p>
+            <p>There are great Mistakes and Falsities in the Author, as that above one hundred thou<g ref="char:EOLhyphen"/>sand Persons were slain at one Riotous Festival. That no People in Q. <hi>Marys</hi> days, in her whole Reign felt so signal marks of her Vengeance, as those very men that raised her to her Throne. But although the <hi>Papists</hi> have been bad enough, yet the Protestant Re<g ref="char:EOLhyphen"/>ligion is so honest and innocent, as it cannot but blush at Fal<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tles and Lies, although af<g ref="char:EOLhyphen"/>firmed in her Defence, for she hates to wrong or injure the worst of her Enemies yea, even the worst of Creatures, even the Devil himself. She abhors to benefit and advan<g ref="char:EOLhyphen"/>tage her self by Lies and Slanders. There are many also of most seditious Tenents and Positions in our Author, the very printing and publishing them, excites to what the Au<g ref="char:EOLhyphen"/>thor
+<pb n="13" facs="tcp:204255:10"/> seemingly condemns. And what a gross Contradiction is he guilty of, so highly to applaud his Majesties Royal Father, and yet vilify his Children, and also to assert those very Principles and Practices which dethron'd him, and after, cut off his Head.</p>
+            <p>As for the Acts of Parliament mentioned by the Author, we must consider, I humbly conceive, not only what hath been done, and so infer we may do the like, but are prin<g ref="char:EOLhyphen"/>cipally to consider, what Foundations they had of Justice, and Right, and what most of them came to in conclusion. The Author intimates that such Acts can make those Le<g ref="char:EOLhyphen"/>gitimate that are not, <hi>&amp;c.</hi> which is worthy of observation in reference to <hi>D M.</hi>
+            </p>
+            <p>It must be granted, that by those Statutes, White was made Black, and then presently after Black was made White again; but doubtless those Colours never altered: for this is certain, things that are truly and essentially good, or evil; just, or unjust; true, or false, cannot be ever altered from what they truly are, and will no more stoop and bend to Acts of Parliament, than the Sun in its Course. And it is apparent, that the attempts of the Papacy to dispence with the Divine Laws, and making evil good, and good evil, hath laid an Eternal Blemish upon them.</p>
+            <p>Now as a late Author hath it, either the Statutes of K. <hi>Hen.</hi> 8. about Succession were obligatory and valid in Law, or they were not; if not, then Acts of Parliament contrary to the right of Succession are without any more ado, <hi>nul</hi> and void in Law; if they were, by what Authority was the House of <hi>Suffolk</hi> excluded, or King <hi>James</hi> admitted to the Crown contrary to so many Statutes enacted against him? Or how can we justify our Predecessors from manifest Perjury, who solemnly swore to maintain those Statutes, un<g ref="char:EOLhyphen"/>less we conclude they were illegal and void from the beginning, as being notoriously re<g ref="char:EOLhyphen"/>pugnant to all Laws, both Divine and Humane, and consequently not fit to be observed, because <hi>Quod male juratur, pejus servatur.</hi>
+            </p>
+            <p>Therefore it is a very gross Mistake, to imagine that such Noble and Worthy Persons, both of the Clergy and Laity, as have lately disowned and rejected the Disinherison of the D. are any whit warping towards Popery, as some would falsly and wickedly mis-represent them to the World, but firmly adhere to the Protestant Church of <hi>England,</hi> as it is now by Law establish'd; but it is the injustice and unreasonableness of the thing, which no honest heart can in Conscience consent to, and which will bring a further great blemish and stain to the Protestant Profession. For the Christian, the Protestant Religion is too honest to Countenance, and too excellent to need unjust and wicked Actions to support its Interest. For, as the said late Author further speaks, no reason of State can be useful to the publick, or justify any Actions contrary to the Laws of God and Nations. And King <hi>James</hi> in his answer to Cardinal <hi>Peron</hi> speaks thus; a breach made by one mischief, must not be filled up by a greater inconvenience; an error must not be shocked and shouldered with disloy<g ref="char:EOLhyphen"/>atly, nor Heresie with Perjury, nor Impiety with Rebellion against God and the King; God useth to try and to school his Church, and will never forsake his Church; nor hath need to protect his Church by any proditorious Practices of persidious Christians.</p>
+            <p>I cannot but stand amazed therefore, at the late actings of men of reputed Prudence and Wisdom in these Nations; but I humbly conceive, they arose from these two Roots or Causes; First, from bad and erroneous Principles, begot and cherished in the late times of Tyranny and Usurpation (for as Sir <hi>Edwin Sands</hi> well observes, a sweet mind and pure Conversation be the natural Fruits of a sound belief and perswasion) Secondly, from the Pride, Passions, and Lusts of men, for as the Worthy Dean of <hi>Canterbury</hi> observes passions of Wrath, Malice, Envy, and Revenge, do darken and distort the understandings of men, do tincture the mind with false Colours, and fill it with Prejudice, and undue appre<g ref="char:EOLhyphen"/>hensions of things.</p>
+            <p>And assuredly did Subjects but wisely and truly consider things, they would not only abhor and detest all Sedition and Rebellion, but all lesser degrees of disloyalty, <hi>viz.</hi> all sleightings and contempt of their lawful Prince and Governour, knowing that as such lesser disloyalties lead and have a tendency to the greater, and that such actions weaken his hands, and thereby the publick Peace and Government, and is directly opposite to the interest, safety, and happiness of the people; and that every attempt upon their Prince, is but an attempt against themselves: And therefore I humbly conceive what ever actions of this nature and kind appear at any time in the great Councils of the Kingdom, must needs be most fatal and pernicious, and will in time render those excellent Constitutions contemp<g ref="char:EOLhyphen"/>tible, and useless also, as to those good ends for which they were appointed; for we may have frequent Parliaments, and for some continuance of time also, and yet the Nation never the better for them, i<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> animosities and discontents, and fears and jealousies prevail among
+<pb n="14" facs="tcp:204255:11"/> them, and Religion and Loyalty be the object of their contempt. It is therefore one of the greatest Paradoxes and Absurdities that ever was heard of in the world for such persons to be accounted and esteemed the good and useful Patriots of their Country, who shew themselves disloyal and insolent against their Prince; or to think that those can ever be friends to Religion and the Church, who are secret enemies at last to the present Ecclesi<g ref="char:EOLhyphen"/>astical Constitution and Government, and the Governours thereof; and have mean and con<g ref="char:EOLhyphen"/>temptible thoughts of the Clergie, and delight in defaming and reproaching them.</p>
+            <p>Our Author of the Character of a Popish Successor goes on. <hi>How shall we,</hi> saith he, <hi>dare to revolt, remember we are Christians, &amp;c. We are bound indeed by our Oaths of Allegiance to a constant loyalty to the King and his lawful Successors; very right, we are bound to be his law<g ref="char:EOLhyphen"/>ful Successors loyal Subjects, but why his loyal Slaves?</hi>
+            </p>
+            <p>To which I answer, If it be our lot to be under a tyrannical, yet lawful Prince, I assert it, That by the Christian Law we ought notwithstanding to be his loyal, although, as we judg, enslaved Subjects; and if we resist, we resist the Ordinance of God, and thereby shall purchase to our selves damnation. And by this wicked, turbulent, and unchristian do<g ref="char:EOLhyphen"/>ctrine asserted by this Author, it makes private Sujects, as is before mentioned, to judg and determine of the Actions of Princes, and at their own will and pleasure to terminate and put an end to their Loyalty and Alleagiance; which if once granted, must of necessi<g ref="char:EOLhyphen"/>ty subvert and overthrow all Government in the world, and will furnish rebellious Subjects with pretences for Sedition and Rebellion when ever any the least opportunity offers it self to them, and by this means will turn the world into war, confusion and blood,</p>
+            <p>How doth our Author bespatter and defile himself, in drolling upon primitive Christian innocence: for his words are these; <hi>But alas! that Bugbear of Passive Obedience is a notion crept into the world, and most zealously, and perhaps as ignorantly defended,</hi> Thus is the suffer<g ref="char:EOLhyphen"/>ings of the holy Martyrs and Confessors, the patience of the Saints reproached by this pre<g ref="char:EOLhyphen"/>tended Christian; and the Crown taken off the head of the holy Christian Religion, and its glory laid in the dust: for this was ever its beauty and glory, that whatsoever the Pri<g ref="char:EOLhyphen"/>mitive Christians suffered for their Religion, they endured it with infinite meekness and patience, like their Lord and Master; and, as it is attested in Scripture, refused deliverance, by unjust and unlawful means, as by resistance and rebellion, although they had power to accmoplish it. But alas! How is Christianity reproach'd also by that late Author of <hi>Julian,</hi> who either makes Christians to be patient and submissive, or else because they know no better. Now certainly (as I humbly conceive) no action can be vertuous or praise-worthy, that is not performed freely and voluntarily, and not forced.</p>
+            <p>Our Author further goes on, there never (saith he) wanted the Authority even of holy Writ it self, on all occasions to vindicate every thing. He speaks true, in that wicked, men wrest and torture the sacred Scriptures: And as our late times of Usurpation made good his as<g ref="char:EOLhyphen"/>sertions to the full, so our Author himself verifies the same; for when he speaks of <hi>Saul</hi> and <hi>David,</hi> and the Kings of <hi>Israel,</hi> here indeed saith he a passive Obedience was due, but what's that to a King of <hi>England?</hi> Was there ever such a Sophistical distinction heard of in the World before, against all sound Expositors of Scripture throughout the World? Yea, against common sence: For I think I may say in all Monarchys, more or less there are certain Rules and Bounds to the Princes Prerogatives, and the Subjects Liberties and Free<g ref="char:EOLhyphen"/>doms, for without it there can be no Government or Order, but more especially, are most excellently well setled in our <hi>English</hi> Monarchy, in which as in all others, there is no such expedient allowed of to cure the Faults and Misgovernment of a Lawful Prince by a greater Crime of Sedition and Rebellion; for doubtless, that is but to attempt to cure a lesser evil by committing a greater, and but to skip out of the Frying-pan into the Fire. And the supream Power must not run in a Circle, but be terminated some-where, and doubtless, more safely in a single Person, which if he prove bad, cannot live always, than in many Sub<g ref="char:EOLhyphen"/>stitutes of the People, which if they prove tyrannous, have power to perpetuate the Slavery of the People to Eternity.</p>
+            <p>That Maxim, that the King can do no wrong, (although he calls it spetious slattery) is sound and good; not but that Princes as men may err and do amiss, yet ought to be esteem<g ref="char:EOLhyphen"/>ed by us as earthly Gods, and that we should always carry our selves with that Loyalty and Respect towards them, as if they were Faultless; again, the Prince may also in a sense be said, that he can do no wrong, because he is subject to no earthly Tribunal. And doubtless, it is therefore the best and wisest thing for Subjects not so much to concern them<g ref="char:EOLhyphen"/>selves with the Faults of him that is above their reach, and only subject to the King of Kings, otherwise than by their prayers to God, and humble applications to their Prince.</p>
+            <pb n="15" facs="tcp:204255:11"/>
+            <p>Our Author affirms, but most untruly, That the Original of Monarchy was from the choice of the People, when as the great Philosopher <hi>Aristotle</hi> (as those that Converse with his Writings testify) calls Monarchy the Divinest sort of Government, and derives the O<g ref="char:EOLhyphen"/>riginal of that Government, not from any arbitrary Election or Choice of the People, but from the Fatherhood, and the natural subjection Children owed their Parents, which he had it seems from his worthy Master Divine <hi>Plato.</hi> He adds also, that all Tyrants for the most part, are made of the Factious Ring-leaders of the People, having got credit with the Multitude, by falsly impeaching and calumniating famous and renowned men.</p>
+            <p>Now although it should be granted what our Author affirms, That a Popish Prince in introducing Popery would be guilty of a greater sin; yet that doubtless can be no Licence for us that are Subjects, to commit that lesser sin (as he would make it) of opposing that Tyranny by resistance: and although our Religion, Lives, and Liberties, ought to be dear to us, yet not so dear to us, as to constrain us to rush into those heinous and crying sins of Sedition and Rebellion, and so to endanger our more pretious Souls: for what will it profit a man to gain the whole World, and lose his own Soul?</p>
+            <p>It is observed by the sage <hi>Xenophon</hi> in the Life of <hi>Cyrus,</hi> that all the Herds of Beasts of all sorts are more willing to obey their Pastors, than men their Magistrates, nay rather, more curst and hurtful are Beasts to all others, than to their Rulers; and thence concludes, That it was more easie for a man to command and govern all other living Creatures in the World than men.</p>
+            <p>To which I may add that Government and Peace in the World is the most desirable bles<g ref="char:EOLhyphen"/>sing to all; yet in our times and age, it hath been a business of very great difficulty to Ma<g ref="char:EOLhyphen"/>gistrates and Governors, to maintain it and keep it up, in regard of the Atheism, Irreligi<g ref="char:EOLhyphen"/>on, Passion, and Lusts of men; for as it is mentioned by the Worthy Dean of St. <hi>Paul</hi>'s, that <hi>Plutarch</hi> calls Religion a Foundation, that knits and joynts Societies together; and that it is more impossible for a Common-wealth, either to be formed, or subsist without Reli<g ref="char:EOLhyphen"/>gion, than a City to stand without Foundations. And as the Dean of <hi>Canterbury</hi> aforsaid ob<g ref="char:EOLhyphen"/>serves, The Principles of Irreligion unjoynt the Sinews, and blow up the very Foundations of Government; this turns all the sense of Loyalty into Folly. There is little need there<g ref="char:EOLhyphen"/>fore in our times of seditious Pamphlets, to disturb and exasperate the vulgar, and to wea<g ref="char:EOLhyphen"/>ken the hands of our Governors; and certainly what-ever is pretended, it is not the Reli<g ref="char:EOLhyphen"/>gion of God, but the Lusts of men, that give trouble to his Vicegerents in the World. Our Protestant Religion therefore if it be Christian, I am sure of it, will make us seek Peace and pursue it. And sure this Author, the Devils Casuist, is near of kin to <hi>Mariana</hi> the Jesu<g ref="char:EOLhyphen"/>it, with whom he concurs in his wicked Doctrine and Principles.</p>
+            <p>The Tares of seditious and wicked Principles so plentifully sown by the Devil and his Instruments in our days, what fruit we may shortly expect therefrom (if God in mercy prevent not) I shall leave to all wise and sober Persons to consider, not less doubtless, than great troubles to this Nation, if not the utter rain and overthrow thereof. And that I may not seem to speak my own sense and judgment herein, I shall give you some Colle<g ref="char:EOLhyphen"/>ctions out of a wise and judicious Speech delivered in the Star-Chamber by Sir <hi>Nicholas Bacon,</hi> Kt. Lord Keeper 10<seg rend="sup">o</seg>. <hi>Elizabethae,</hi> his words are these. <hi>It is given to the Queens Majesty, to understand that certain of her Subjects by their evil dispo<g ref="char:EOLhyphen"/>sitions</hi>
+               <note place="margin">
+                  <hi>Fox</hi>'s Acts and Monumens.</note>
+               <hi>do sow and spread abroad divers Seditions, to the derogation and dishonour, First, of Almighty God in the state of Religion establish'd by the Laws of this Realm, and also to the dishonour of her Highness</hi>—What will become of these unbridled speeches in the end, if Reformation be not had thereof? What cometh of Factions and Seditions we have been taught of late years, and what the Fruits thereof be, which I beseech God long to defend us from? If such disorders be not redressed by Law, then must Force and Vi<g ref="char:EOLhyphen"/>olence reform?—If Force and Violence prevail, then ye know that Law is put to silence and cannot be executed, which should only maintain good Order?—But if the bringing in of these seditious Books make mens minds to be at variance one with ano<g ref="char:EOLhyphen"/>ther; Destraction of minds maketh Seditions, Seditions bring in Tumults, Tumults work Insurrections and Rebellions, Insurrections make Depopulations and Desolations, and bring in utter ruin and destruction of mens Bodies, Goods, and Lands; and if any sow the Seed or Root whereof these things come, and yet it can be said, that he hath no malice, or that he doth not maliciously labour to destroy both publick and private Weale; I can<g ref="char:EOLhyphen"/>not tell, what Act may be thought to be done maliciously.—As for extream and bloody Laws I have never liked of them; but where the Execution of such Laws toucheth half a dozen Offenders, and the not Execution may bring in danger half a hundred, I
+<pb n="16" facs="tcp:204255:12"/> think this Law, nor the execution thereof may be justly called extream and bloody; In such like Comparison I may utter my meaning, as to make a difference, between Whipping and Hanging.—The truth is, to suffer disobedient Subjects to take boldness against the Laws of God and their Prince, to wink at the obstinate minds of such as be unbridled in their affections to maintain a—Power—against the Princes Prorogative sta<g ref="char:EOLhyphen"/>blish'd by Laws; is not this to hatch Dissention, and to cherish Sedition.—If these doings be not means to the disturbance and utter ruin of the Realm; I know not what is good Governance, if these be not the sparks of Rebellion, what be they? Thus far that wise Statesman delivers himself his judgment, in the best of times.</p>
+            <p>To Conclude, it is said of wise <hi>Cato,</hi> That he refused that Rhetoritians should plead for this reason, <hi>Quia orationis facundia facile possunt aequa &amp; iniqua perswadere.</hi> So I could have heartily wished, that this my Author which I have mentioned, had either been fur<g ref="char:EOLhyphen"/>nished with a greater stock of honesty and integrity, or else had had less of Eloquence and good Language, and then he had done less mischief. Farewel.</p>
+            <lg>
+               <l>
+                  <hi>Cease Civil br<gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> O</hi> English <hi>Subjects Cease,</hi>
+               </l>
+               <l>
+                  <hi>With War and blood stain this fair soyl no more,</hi>
+               </l>
+               <l>
+                  <hi>As God, so Kings, must be obey'd with Peace.</hi>
+               </l>
+               <l>
+                  <hi>Be just therefore; to them their Rights restore,</hi>
+               </l>
+               <l>
+                  <hi>Wash with Repentance these thine Acts before.</hi>
+               </l>
+            </lg>
+            <p>Speed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
